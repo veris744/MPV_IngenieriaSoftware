@@ -6,3 +6,4 @@ Generando otro conflicto
 
 Cambio en nueva rama
 
+Conflicto de ramas
