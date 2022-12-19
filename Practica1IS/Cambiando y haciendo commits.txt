@@ -1,8 +1,10 @@
 
 Haciendo commits 2
-Probando conflicto 3 de ramas esta vez
+
+Seguimos probando conflicto 3 de ramas esta vez
 
 Generando otro conflicto
 
 Cambio en nueva rama
 
+Conflicto de ramas
