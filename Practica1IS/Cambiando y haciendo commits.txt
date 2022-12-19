@@ -1,6 +1,6 @@
 
 Haciendo commits 2
-Probando conflicto 2
+Seguimos probando
 
 Generando otro conflicto
 
