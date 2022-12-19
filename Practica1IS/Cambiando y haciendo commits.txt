@@ -1,2 +1,6 @@
+
 Haciendo commits 2
 Probando conflicto 2
+
+Generando otro conflicto
+
